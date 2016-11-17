@@ -1,39 +1,3 @@
-/*******************************************************************************
- * // Begin statement                                                          *
- *                                                                             *
- * Permission to use this software is granted provided that this statement     *
- * is retained.                                                                *
- *                                                                             *
- * This software is for NON-COMMERCIAL use only!                               *
- *                                                                             *
- * If you would like to use any part of my software in a commercial or public  *
- * environment/product/service, let me know (askitisn@gmail.com) before        *
- * you use it (this statement will also need to be retained along with other   *
- * details), so I can grant you permission.                                    *
- *                                                                             *
- * Please DO NOT distribute my software (in any manner), in part or in whole.  *
- * Thank you.                                                                  *
- *                                                                             *
- * Developer: Dr. Nikolas Askitis                                              *
- * Website:   http://www.naskitis.com                                          *
- * Email:     askitisn@gmail.com                                               *
- * Please show your support by visiting: www.naskitis.com                      *
- *                                                                             *
- * Copyright @ 2010.  All rights reserved.                                     *
- * This program is distributed without any warranty; without even the          *
- * implied warranty of merchantability or fitness for a particular purpose.    *
- *                                                                             *
- *                                                                             *
- * Compiler version used: gcc (Ubuntu/Linaro 4.4.4-14ubuntu5) 4.4.5            *
- * O/S used: Linux ubuntu 2.6.35-22-generic #33-Ubuntu SMP Sun Sep 19 20:32:27 *
- * UTC 2010 x86_64 GNU/Linux                                                   *
- *                                                                             *
- * Developed and implemented by Dr. Nikolas Askitis, April 2004-2009 for       *
- * Linux-based platforms.                                                      *
- *                                                                             *
- * // End statement                                                            *
- ******************************************************************************/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
